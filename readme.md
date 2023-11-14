@@ -3,8 +3,6 @@ Este es mi primer proyecto de Git
 #Titulo1 
 [anchor](https://estaticos-cdn.prensaiberica.es/clip/21e3eb82-8cf5-43b3-8d11-e164496ab390_alta-libre-aspect-ratio_default_0.jpg "título") 
 
-![anchor](https://www.republica.com/wp-content/uploads/2022/05/Marcelo-Vieira-levanta-la-copa-tras-poner-una-bufanda-a-la-diosa-Cibeles-1200x674.jpg) 
-
 
 ---
 
