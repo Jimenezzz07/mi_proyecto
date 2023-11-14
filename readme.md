@@ -32,3 +32,22 @@ Date:   Tue Nov 14 19:41:03 2023 +0100
 
 
 Otro cambio mas para el diff...
+
+---
+
+diff --git a/readme.md b/readme.md
+index ed4b103..e0e3924 100644
+--- a/readme.md
++++ b/readme.md
+@@ -27,4 +27,8 @@ Author: Jimenezzz07 <danielllllll0007@gmail.com>
+ Date:   Tue Nov 14 19:41:03 2023 +0100
+
+     Añadido readme.md
+-
+\ No newline at end of file
++
++.a.aa.
++
++
++Otro cambio mas para el diff...
+\ No newline at end of file
